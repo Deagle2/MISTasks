@@ -5,7 +5,7 @@
 |                            | 3. Safe Opener                              | ![Not Done](https://img.shields.io/badge/Status-Not_Done-red) |
 |                            | 4. Picker I                                 | ![Done](https://img.shields.io/badge/Status-Done-brightgreen) |
 |                            | 5. Picker II                                | ![Not Done](https://img.shields.io/badge/Status-Not_Done-red) |
-|                            | 6. ARMssembly 0                             | ![Not Done](https://img.shields.io/badge/Status-Not_Done-red) |
+|                            | 6. ARMssembly 0                             | ![Done](https://img.shields.io/badge/Status-Done-brightgreen)  |
 |                            | 7. ARMssembly 1                             | ![Done](https://img.shields.io/badge/Status-Done-brightgreen) |
 |                            | 8. Vault-Door-Training                      | ![Done](https://img.shields.io/badge/Status-Done-brightgreen) |
 |                            | 9. Vault-Door-1                             | ![Done](https://img.shields.io/badge/Status-Done-brightgreen) |
