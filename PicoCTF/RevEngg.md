@@ -280,7 +280,8 @@ These are different types of numbering systems such as Hex, Octal & Decimals
 We can either use an automation to first convert each to characters and join them,
  or do manually
 
-```myBytes = [
+```
+myBytes = [
     106, 85, 53, 116, 95, 52, 95, 98,
     0x55, 0x6e, 0x43, 0x68, 0x5f, 0x30, 0x66, 0x5f,
     0o142, 0o131, 0o164, 63, 0o163, 0o137, 0o146, 0o64,
