@@ -220,6 +220,18 @@ public boolean checkPassword(String password) {
     return password.equals(" w4rm1ng_Up_w1tH_jAv4_be8d9806f18");
 }
 ```
+# Vault Door 1
+
+## Flag 
+```
+picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_ff63b0}
+```
+
+# Solution
+- The string length is 32 characters
+- Using the code snippet concatenating the string according to ascending index i.e., 0-32 we get the flag directly 
+
+
 
 ---
   # Vault Door 3
