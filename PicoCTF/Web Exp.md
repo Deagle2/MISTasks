@@ -86,5 +86,6 @@ This displayed the flag stored in the `flag` column.
   1. <!DOCTYPE> allows us to define an external entity, in this case `&example`, foo is placeholder
   2. `[<!ENTITY example SYSTEM "/etc/passwd"> ]>`, gives example as the contents inside /etc/passwd
   3. The XXE payload defines an external entity, a placeholder `&example`, whose value is the contents of the /etc/passwd file. When the XML is read by the             program, it may automatically replace `&example`, with the actual data from that file. 
-![image](https://github.com/user-attachments/assets/6a3dee48-850f-43dd-b887-30536dce69e8)
+![image](https://github.com/user-attachments/assets/dbdeb504-ed4c-4e34-b004-dc4b24f85ed3)
+
 
