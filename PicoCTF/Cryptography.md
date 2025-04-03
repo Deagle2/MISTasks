@@ -195,7 +195,8 @@ for i in range(len(chars)):
         print chars[i] #prints
         b += 1 / 1
 ```
-![image](https://github.com/user-attachments/assets/7195f852-0146-4ca0-8729-f63300c42f94)
+![image](https://github.com/user-attachments/assets/bbe47300-e2ab-4245-9495-4777c0caefcf)
+
 
 
 Running the output obviously doesn't give the flag, nor does it output anything at all so I figured out this must have been a text that needed to be 
