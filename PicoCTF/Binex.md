@@ -21,7 +21,8 @@
 - Using the hint we can try adding a few more characters, by trial and error method I found out that 19 characters is the breaking point/buffer overflow point.
 - Cmd 1 has 19 characters. Cmd 2 has 20 characters which was the breaking point/buffer overflow.
 - This meant that at 20 characters input I got the flag as seen in the screenshot below
-  ![image](https://github.com/user-attachments/assets/defeced7-8fd8-4422-89f8-f596da5fbec1)
+![image](https://github.com/user-attachments/assets/55e3673a-0ee2-4497-ab48-71eed1e9e24c)
+
 
 ---
 # format string 0
@@ -55,7 +56,7 @@ Please choose from the following burgers: Pe%to_Portobello, $outhwest_Burger, Cl
 - Out of Pe%to_Portobello, $outhwest_Burger and Cla%sic_Che%s%steak, `Cla%sic_Che%s%steak` worked as it contains `%s`, a format specifier 
  
 
+![image](https://github.com/user-attachments/assets/c257fe0c-111d-410e-97c7-e399ed863da5)
 
-![blob](https://github.com/user-attachments/assets/5670d55a-db8f-4254-ac90-14bfb4074de9)
 
 
