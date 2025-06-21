@@ -1,3 +1,12 @@
+### Index
+
+- [Sum-O-Primes](#1-sum-o-primes)
+- [Squared Eyes](#2-squared-eyes)
+- [miniRSA](#3-minirsa)
+
+---
+***
+
 ## 1. Sum-O-Primes
 
 **Description:**
