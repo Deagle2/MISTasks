@@ -1,6 +1,5 @@
 # [globbing] Multiple Globs
-pwn.college{wwZGdCsewJh9y46egCT10NtkrMZ.QXycTO2EDLxIDM2czW} - Multiple Globs
-
+`pwn.college{wwZGdCsewJh9y46egCT10NtkrMZ.QXycTO2EDLxIDM2czW}` 
 # [piping] Split-piping stderr and stdout
 To redirect stdout to one program and stderr to another. Obtaining the flag was a bit complicated In this challenge, you have:
 
@@ -9,4 +8,7 @@ To redirect stdout to one program and stderr to another. Obtaining the flag was 
 To obtain the flag:
 I tried various methods and combinations with >(), 2>, and |
 In the end I got the flag with the command /challenge/hack 2> >( /challenge/the ) | /challenge/planet
-Output: Congratulations, you have learned a redirection technique that even experts struggle with! Here is your flag: pwn.college{kV7aOiZ1D8NdsKHBnBNo7aiZOvx.dFDNwYDLxIDM2czW} `
+Output: Congratulations, you have learned a redirection technique that even experts struggle with! Here is your flag: `pwn.college{kV7aOiZ1D8NdsKHBnBNo7aiZOvx.dFDNwYDLxIDM2czW} `
+
+# [Silly Shenanigans] Snooping on configurations
+`pwn.college{cT0hp1dzbNrjv4pSLV3aryLFtlD.QXyQTM3EDLxIDM2czW}`
